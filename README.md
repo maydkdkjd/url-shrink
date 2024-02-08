@@ -1,6 +1,6 @@
 # Lil URL - A url shortener
 
-🚀 View the [live demo](https://lil-url.onrender.com/).
+🚀 View the [live demo]([https://lil-url.onrender.com/](https://65c4fcedc27d1c2e78632ae4--stunning-shortbread-1f334a.netlify.app/login).
 
 ## Usage
 
